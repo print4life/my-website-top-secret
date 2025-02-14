@@ -1,7 +1,7 @@
 const alternatives = [
   {text:"", images:"images/cat-01.gif"},
-  {text:"Обіцяю, це буде незабутньо", images:"images/cat-02.gif"},
-  {text:"подумай ще раз", images:"images/cat-03.gif"},
+  {text:"Подумай ще раз", images:"images/cat-02.gif"},
+  {text:"Обіцяю, це буде незабутньо", images:"images/cat-03.gif"},
   {text:"Давай, насмілись сказати «так».", images:"images/cat-04.gif"},
   {text:"Не дозволяй страху зупинити тебе", images:"images/cat-05.gif"},
 ]
